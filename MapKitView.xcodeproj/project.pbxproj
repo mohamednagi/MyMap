@@ -13,6 +13,7 @@
 		9AF2E4552040352200BAFE7C /* MapKitView.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 9AF2E4532040352200BAFE7C /* MapKitView.xcdatamodeld */; };
 		9AF2E4572040352200BAFE7C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9AF2E4562040352200BAFE7C /* Assets.xcassets */; };
 		9AF2E45A2040352200BAFE7C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9AF2E4582040352200BAFE7C /* LaunchScreen.storyboard */; };
+		9AF2E46220405F4D00BAFE7C /* LocationsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AF2E46120405F4D00BAFE7C /* LocationsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		9AF2E4562040352200BAFE7C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9AF2E4592040352200BAFE7C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9AF2E45B2040352200BAFE7C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9AF2E46120405F4D00BAFE7C /* LocationsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				9AF2E44C2040352200BAFE7C /* AppDelegate.swift */,
 				9AF2E44E2040352200BAFE7C /* ViewController.swift */,
+				9AF2E46120405F4D00BAFE7C /* LocationsViewController.swift */,
 				9AF2E4502040352200BAFE7C /* Main.storyboard */,
 				9AF2E4562040352200BAFE7C /* Assets.xcassets */,
 				9AF2E4582040352200BAFE7C /* LaunchScreen.storyboard */,
@@ -142,6 +145,7 @@
 				9AF2E4552040352200BAFE7C /* MapKitView.xcdatamodeld in Sources */,
 				9AF2E44F2040352200BAFE7C /* ViewController.swift in Sources */,
 				9AF2E44D2040352200BAFE7C /* AppDelegate.swift in Sources */,
+				9AF2E46220405F4D00BAFE7C /* LocationsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
